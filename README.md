@@ -1,1 +1,2 @@
 # Huffman_Coding_Decoding
+Loseless Data Compression using Huffman Encoding. Implemented 3 data structures namely, pairing heap, four-way cache optimised heap and binary heap. Tested their performance using various files. Also designed an encoder and decoder based on Huffman tree generated using four-way cache optimised heap (which gave the best results) and performed tests on a file having 10 million records.
